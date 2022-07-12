@@ -9,9 +9,7 @@ my_age += 1
 
 puts "I am now #{my_age}"
 
-# math x = x + 1
-
+# math x = x + 1 (here is equals and for ruby we use it a assign!)
 city = "Paris"
-
 
 puts city.upcase + "France"

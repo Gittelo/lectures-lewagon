@@ -16,7 +16,7 @@ musicians.insert(1, "Mike Dj")
 musicians[0] = "Led Zapplin"
 #p musicians
 
-#Delete
+# Delete
 musicians.delete("Mike Dj")
 musicians.delete_at(0)
 p musicians
@@ -24,5 +24,5 @@ p musicians
 # call methods on arrays
 musicians.size
 
-#Range
+# Range
 p (0..10).class

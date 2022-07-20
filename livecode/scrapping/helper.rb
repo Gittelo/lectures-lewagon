@@ -19,6 +19,7 @@ def scrapping_each_movie(url)
   result = {}
   doc.search(".sc-94726ce4-2").each do |element|
     title = element.search(".sc-b73cd867-0").first.text
+    binding.pry
     year = element.search(".sc-8c396aa2-2").children.first.text
     result[:title] = title
     result[:year] = year

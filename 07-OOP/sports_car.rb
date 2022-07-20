@@ -1,0 +1,2 @@
+class SpotsCar
+end

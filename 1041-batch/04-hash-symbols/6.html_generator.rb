@@ -7,16 +7,12 @@ def tag(name, content, attr = {})
   return "<#{name}#{flaten_attr}>#{content}</#{name}>"
 end
 
-puts tag("h1", "Hello World",  { class: "bold", style: "color: red;", href: "www.lewagon.org" })
-puts tag("h1", "Hello World",  class: "bold", style: "color: red;", href: "www.lewagon.org" )
 puts tag("h1", "Hello world")
-#puts tag("Hello world")
+puts tag("h1", "Hello World",  { class: "bold", style: "color: red;", href: "www.lewagon.org" })
+puts tag("h1", "Hello World",  class: "bold", style: "color: red;", href: "www.lewagon.org" ) # call it woithout the {}
 
-      #string
-def me(name)
-  return "You are #{name}!"
 
-end
+# another method that it gets in a hash
         #hash
 def you(attr)
   attr_array = attr.map { |key, value| " #{key}: #{value}"}
@@ -26,3 +22,8 @@ def you(attr)
 end
 
 puts you(eyes: "blue", hair: "blond", nose: "big")
+
+# another method that gets in a string
+def me(name)
+  return "You are #{name}!"
+end

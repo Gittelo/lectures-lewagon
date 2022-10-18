@@ -1,0 +1,49 @@
+---
+- :title: Os Condenados de Shawshank
+  :director: Frank Darabont
+  :year: '1994'
+  :description: Two imprisoned men bond over a number of years, finding solace and
+    eventual redemption through acts of common decency.
+  :cast:
+  - Tim Robbins
+  - Morgan Freeman
+  - Bob Gunton
+- :title: O Padrinho
+  :director: Francis Ford Coppola
+  :year: '1972'
+  :description: The aging patriarch of an organized crime dynasty in postwar New York
+    City transfers control of his clandestine empire to his reluctant youngest son.
+  :cast:
+  - Marlon Brando
+  - Al Pacino
+  - James Caan
+- :title: O Cavaleiro das Trevas
+  :director: Christopher Nolan
+  :year: '2008'
+  :description: When the menace known as the Joker wreaks havoc and chaos on the people
+    of Gotham, Batman must accept one of the greatest psychological and physical tests
+    of his ability to fight injustice.
+  :cast:
+  - David S. Goyer
+  - Christian Bale
+  - Heath Ledger
+- :title: 'O Padrinho: Parte II'
+  :director: Francis Ford Coppola
+  :year: '1974'
+  :description: The early life and career of Vito Corleone in 1920s New York City
+    is portrayed, while his son, Michael, expands and tightens his grip on the family
+    crime syndicate.
+  :cast:
+  - Al Pacino
+  - Robert De Niro
+  - Robert Duvall
+- :title: Doze Homens em Fúria
+  :director: Sidney Lumet
+  :year: '1957'
+  :description: The jury in a New York City murder trial is frustrated by a single
+    member whose skeptical caution forces them to more carefully consider the evidence
+    before jumping to a hasty verdict.
+  :cast:
+  - Lee J. Cobb
+  - Martin Balsam
+  - Sidney Lumet
